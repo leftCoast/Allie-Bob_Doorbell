@@ -1,0 +1,12 @@
+ALong with these file you will need..
+
+Adafruit_GFX
+Adafruit_SSD1351
+Adafruit_VS1053_Library
+
+Go to http://www.adafruit.com for links to the files.
+
+Oh wait.. DOn't bother with the Adafruit_VS1053_Library
+I added a patched version of it here.
+
+-jim lee
